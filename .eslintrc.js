@@ -21,6 +21,7 @@ module.exports = {
         delimiter: 'none',
         requireLast: true
       }
-    }]
+    }],
+    'function-paren-newline': ['error', 'never']
   }
 }
